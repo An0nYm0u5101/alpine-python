@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:3.17.10
 
 # VERSIONS
 ENV ALPINE_VERSION=3.11 \
